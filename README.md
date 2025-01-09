@@ -12,3 +12,6 @@ Landing Page Creation: Building responsive and compelling landing pages from scr
 Website Audit and Recommendations: Evaluating existing websites for design and performance and providing actionable recommendations for optimization.
 
 This project emphasizes a hands-on approach, offering real-time exercises to apply theoretical knowledge to real-world scenarios.
+
+https://docs.google.com/presentation/d/1mOpnJM67ztQzjdqhuGKcZlqiz4m7xNCD/edit?usp=drivesdk&ouid=112578377192655244594&rtpof=true&sd=true
+
